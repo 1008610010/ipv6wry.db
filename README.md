@@ -1,7 +1,7 @@
 
 # ipv6wry.db
 
-当前版本: `20200302`
+当前版本: `20200506`
 
 `ipv6wry.db`是国内较为精确的IPv6地址库，据其官网 [IPv6地址查询网站](http://ip.zxinc.org/index.htm) 说明：
 
@@ -72,6 +72,7 @@ sudo apt-get install p7zip-full jq
 | 20191031 | 123693 | 1.77MiB | 
 | 20191130 | 132557 | 1.90MiB | 
 | 20200302 | 138649 | 1.98MiB | 
+| 20200506 | 141389 | 2.02MiB | 
 <!-- update info here -->
 
 ## License
